@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 <manifest>  
-<remote name="repo_server" fetch="ssh:ubuntu@118.195.231.86:/home/ubuntu/repo_server" />  
+<remote name="repo_server" fetch="http://111.231.110.168:8080/repo_server" />  
 <default revision="master" remote="repo_server" />  
 <project name="pro1" path="pro1"/>  
 <project name="pro2" path="pro2"/>  
